@@ -12,9 +12,4 @@ gitcreds::gitcreds_set()
 #testing add
 
 
-library(usethis)
-use_github()
-#nestskiedjglsdijg 
-library(usethis)
-use_github()library(usethis)
-use_github()
+
