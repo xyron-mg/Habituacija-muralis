@@ -10,3 +10,7 @@ library(gitcreds)
 gitcreds::gitcreds_set()
 
 #testing add
+
+
+library(usethis)
+use_github()
