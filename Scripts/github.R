@@ -15,3 +15,6 @@ gitcreds::gitcreds_set()
 library(usethis)
 use_github()
 #nestskiedjglsdijg 
+library(usethis)
+use_github()library(usethis)
+use_github()
