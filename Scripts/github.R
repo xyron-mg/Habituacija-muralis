@@ -8,8 +8,9 @@ usethis::create_github_token()
 
 library(gitcreds)
 gitcreds::gitcreds_set()
-
+gitcreds_get()
 #testing add
 
+usethis::git_remotes()
 
-
+usethis::create_github_token()
